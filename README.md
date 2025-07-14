@@ -1,4 +1,4 @@
-# Paper Title
+# FedCSA: A Novel Federated Learning Client Selection with Anomaly Detection Approach for IoT Systems
 
 **Author:** Bouchra Fakher
 **Published in:** 2025 WCNC 
